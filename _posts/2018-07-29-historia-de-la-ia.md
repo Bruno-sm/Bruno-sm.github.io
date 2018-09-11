@@ -70,7 +70,7 @@ En 1972 se desarrollan dos de los lenguajes de programación más influyentes en
 
 Earl Sacerdoti desarrolla las técnicas de planificación jerárquica y las utiliza para implementar ABSTRIPS.
 
-En 1974 comienza el primer invierno de la IA, que se extenderá hasta 1908. Fue un periodo marcado por el desinterés en la inteligencia artificial, una menor investigación y recorte de fondos.
+En 1974 comienza el primer invierno de la IA, que se extenderá hasta 1980. Fue un periodo marcado por el desinterés en la inteligencia artificial, una menor investigación y recorte de fondos.
 
 
 ### Los 80
